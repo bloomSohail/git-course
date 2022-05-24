@@ -1,4 +1,6 @@
-"hello world"
-this is second line
-this is a third line
-this is a fourth line
+hello world;
+this is second line;
+this is a third line;
+this is a fourth line;
+
+the lazy brown cat jumps over the house;
